@@ -1,0 +1,15 @@
+# Ignore Python environement and cache
+**/.venv
+**/__pycache__
+**.egg-info
+
+# Ignore credential file
+*credentials-mm-metrics.json
+*credentials.json
+
+# Project specific
+reports
+html_report_dir
+src/.vimrc
+TCs.json
+TCs_filter.txt
