@@ -1,0 +1,6 @@
+vibe greet(name):
+    spill("Hello " plus name)
+
+main_character():
+    flex user got "World"
+    greet(user)
